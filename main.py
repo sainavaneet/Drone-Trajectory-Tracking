@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import support as sfd
 import matplotlib.gridspec as gridspec
 import matplotlib.animation as animation
+from mpl_toolkits.mplot3d import Axes3D
+
 
 
 support = sfd.support()
