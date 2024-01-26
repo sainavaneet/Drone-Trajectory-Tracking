@@ -1,7 +1,3 @@
-# Dynamics and Control of a Drone
-
-This README provides an overview of the dynamics, kinematics, control system, trajectory generation, Linear Parameter Varying (LPV) Systems, and Model Predictive Control (MPC) related to drones.
-
 ## 1. Dynamics and Kinematics of the Drone
 
 The dynamics and kinematics of a drone are crucial in understanding and controlling its flight behavior. The drone's state can be described by its position (x, y, z), orientation (roll \( \phi \), pitch \( \theta \), and yaw \( \psi \)), and their respective velocities and angular velocities.
@@ -92,3 +88,6 @@ Where:
 - \( N \) is the prediction horizon.
 - \( A \) and \( B \) are the system matrices.
 - \( x_{min}, x_{max}, u_{min}, u_{max} \) are the bounds on states and inputs.
+
+[![Alt text](https://img.youtube.com/vi/S4rpkbglb5c/0.jpg)](https://www.youtube.com/watch?v=S4rpkbglb5c)
+
